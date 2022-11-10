@@ -13,9 +13,12 @@ My research interests are the intersection of medical image analysis, machine le
 [[linkedin]](https://www.linkedin.com/in/sherry-wang-70814b10b/)
 
 # Selected publications
+### Reverse Engineering for Reconstructing Baseline Features of Dry Age-related Macular Degeneration in Optical Coherence Tomography
+Shuxian Wang, Ziyuan Wang, Srimanasa Vejalla, Anushika Ganegoda, Muneeswar Gupta Nittala, Srinivas Reddy Sadda, Zhihong Jewel Hu <br>
+(Under Review)
+
 ### ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction
 Yubo Zhang, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang, Stephen M. Pizer <br>
-(Under Review) <br>
 [[paper]](https://arxiv.org/abs/2111.10371)
 
 ### Lighting Enhancement Aids Reconstruction of Colonic Surfaces
