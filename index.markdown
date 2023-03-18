@@ -13,9 +13,15 @@ My research interests are the intersection of medical image analysis, machine le
 [[linkedin]](https://www.linkedin.com/in/sherry-wang-70814b10b/)
 
 # Selected publications
+### A Surface-normal Based Neural Framework for Colonoscopy Reconstruction
+Shuxian Wang, Yubo Zhang, Sarah K. McGill, Julian G. Rosenman, Jan-Michael Frahm, Soumyadip Sengupta, Stephen M. Pizer <br>
+(IPMI 2023) <br>
+[[paper]](https://arxiv.org/abs/2303.07264)
+
 ### Reverse Engineering for Reconstructing Baseline Features of Dry Age-related Macular Degeneration in Optical Coherence Tomography
 Shuxian Wang, Ziyuan Wang, Srimanasa Vejalla, Anushika Ganegoda, Muneeswar Gupta Nittala, Srinivas Reddy Sadda, Zhihong Jewel Hu <br>
-(Under Review)
+(Scientific Reports 2022) <br>
+[[paper]](https://www.nature.com/articles/s41598-022-27140-8)
 
 ### ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction
 Yubo Zhang, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Rosenman, Shuxian Wang, Stephen M. Pizer <br>
