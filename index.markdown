@@ -35,7 +35,8 @@ Yubo Zhang, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian G. Rosenman, Stephe
 # Outreach and Inclusion
 ### Graduate Women in Computer Science
 Career Events co-Chair 2022-Ongoing
+[[webpage]](https://cs.unc.edu/experience/cs-clubs/gwics/)
 
 ### Talking Over Papers in Computer Science (TOPICS)
-CS Undergrad Women's Reading Group <br>
+*CS Undergrad Women's Reading Group <br>*
 Graduate Student Mentor 2022-Ongoing
