@@ -31,3 +31,11 @@ Yubo Zhang, Jan-Michael Frahm, Samuel Ehrenstein, Sarah K. McGill, Julian G. Ros
 Yubo Zhang, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian G. Rosenman, Stephen M. Pizer <br>
 (IPMI 2021) <br>
 [[paper]](https://arxiv.org/abs/2103.10310)
+
+# Outreach and Inclusion
+### Graduate Women in Computer Science
+Career Events co-Chair 2022-Ongoing
+
+### Talking Over Papers in Computer Science (TOPICS)
+CS Undergrad Women's Reading Group <br>
+Graduate Student Mentor 2022-Ongoing
