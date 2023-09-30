@@ -32,6 +32,10 @@ Yubo Zhang, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian G. Rosenman, Stephe
 (IPMI 2021) <br>
 [[paper]](https://arxiv.org/abs/2103.10310)
 
+# Teaching
+### Comp562: Introduction to Machine Learning
+Summer Session II 2023
+
 # Outreach and Inclusion
 ### Graduate Women in Computer Science
 Career Events co-Chair 2022-Ongoing
