@@ -5,7 +5,7 @@
 layout: home
 ---
 I am a PhD candidate in Computer Science at the University of North Carolina Chapel Hill.
-I am advised by Prof. Stephen Pizer. I received a M.S. in Computer Science from UNC Chapel Hill in 2022 and a B.S. in Computer Science from Caltech in 2020.
+I am advised by Prof. Stephen Pizer. I received a M.S. in Computer Science from UNC Chapel Hill in 2022 and a B.S. in Computer Science with a minor in English from Caltech in 2020.
 
 My research interests are the intersection of medical image analysis, machine learning, and computer vision.
 
@@ -13,6 +13,11 @@ My research interests are the intersection of medical image analysis, machine le
 [[linkedin]](https://www.linkedin.com/in/sherry-wang-70814b10b/)
 
 # Selected publications
+### Structure-preserving Image Translation for Depth Estimation in Colonoscopy
+Shuxian Wang, Akshay Paruchuri, Zhaoxi Zhang, Sarah McGill, Roni Sengupta <br>
+(MICCAI 2024) <br>
+[[paper]](http://arxiv.org/abs/2408.10153) [[code]](https://github.com/sherry97/struct-preserving-cyclegan) [[data]](https://endoscopography.web.unc.edu)
+
 ### A Surface-normal Based Neural Framework for Colonoscopy Reconstruction
 Shuxian Wang, Yubo Zhang, Sarah K. McGill, Julian G. Rosenman, Jan-Michael Frahm, Soumyadip Sengupta, Stephen M. Pizer <br>
 (IPMI 2023) <br>
@@ -34,7 +39,7 @@ Yubo Zhang, Shuxian Wang, Ruibin Ma, Sarah K. McGill, Julian G. Rosenman, Stephe
 
 # Teaching
 ### Comp562: Introduction to Machine Learning
-Summer Session II 2023
+UNC Summer Session II 2023
 
 # Outreach and Inclusion
 ### Graduate Women in Computer Science
